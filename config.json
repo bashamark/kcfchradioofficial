@@ -15,7 +15,7 @@
     "stream_one_url": "https://c24.radioboss.fm:18185/stream",
     "stream_two_url": "https://c24.radioboss.fm:18185/stream",
     "enable_autoplay": true,
-    "stream_one_text": "KCF Radio",
+    "stream_one_text": "KCFCH Radio",
     "stream_two_text": "Data Saver (Slight delay)",
     "stream_three_url": "https://c24.radioboss.fm:18185/stream",
     "stream_one_active": true,
